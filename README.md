@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: www.linked.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
-- :white_check_mark: Personal Projects That I've worked on:
+- :white_check_mark: Personal projects that I've worked on:
   - https://github.com/KFCNuggets/project-catwalk  
   - https://github.com/HealthyBilly/BillyHealthy
   
