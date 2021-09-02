@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: www.linked.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
+
+[![Chhuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhuongle)](https://github.com/chhuongle/github-readme-stats)
