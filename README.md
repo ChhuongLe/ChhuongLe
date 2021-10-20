@@ -5,8 +5,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://github.com/ChhuongLe/Pokedex and https://github.com/ChhuongLe/portfolio
-- 🌱 I’m currently learning Python 
+- 🔭 I’m currently working on: 
+  - https://github.com/ChhuongLe/Pokedex 
+  - https://github.com/ChhuongLe/portfolio
+  - https://github.com/RecyclePG/RecyclePG
+  - https://github.com/ChhuongLe/TodoList
+- 🌱 I’m currently learning: 
+  - React-Native
+  - JavaScipt
+  - Python
 - 📫 How to reach me: www.linked.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
 -->
@@ -18,8 +25,6 @@ Here are some ideas to get you started:
 - :white_check_mark: Personal projects that I've worked on:
   - https://github.com/KFCNuggets/project-catwalk  
   - https://github.com/HealthyBilly/BillyHealthy
-  - https://github.com/RecyclePG/RecyclePG
-  - https://github.com/ChhuongLe/TodoList
   
 [![Chhuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhuongle)](https://github.com/chhuongle/github-readme-stats) 
 
