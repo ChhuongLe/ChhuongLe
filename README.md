@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - :white_check_mark: Personal projects that I've worked on:
   - https://github.com/KFCNuggets/project-catwalk  
   - https://github.com/HealthyBilly/BillyHealthy
+  - https://github.com/RecyclePG/RecyclePG
+  - https://github.com/ChhuongLe/TodoList
   
 [![Chhuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhuongle)](https://github.com/chhuongle/github-readme-stats) 
 
