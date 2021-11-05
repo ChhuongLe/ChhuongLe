@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   - React-Native
   - JavaScipt
   - Python
-- 📫 How to reach me: www.linked.com/in/chhuongle or chhuongcle@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
 - :white_check_mark: Personal projects that I've worked on:
   - https://github.com/KFCNuggets/project-catwalk  
