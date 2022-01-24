@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: 
   - https://github.com/ChhuongLe/TodoList
   - https://github.com/ChhuongLe/portfolio
-  - https://github.com/RecyclePG/RecyclePG
 - 🌱 I’m currently learning: 
   - React-Native
   - JavaScipt
