@@ -10,9 +10,9 @@ Here are some ideas to get you started:
   - https://github.com/ChhuongLe/QuickFix
   - https://github.com/ChhuongLe/Spotography
 - 🌱 I’m currently learning: 
-  - React-Native
   - JavaScipt
   - Python
+  - Java
 - 📫 How to reach me: www.linkedin.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
 - :white_check_mark: Personal projects that I've worked on:
