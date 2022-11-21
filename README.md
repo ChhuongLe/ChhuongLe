@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
-  - https://github.com/ChhuongLe/TodoList
-  - https://github.com/ChhuongLe/QuickFix
+  - https://medium-clone-mu-one.vercel.app/
   - https://github.com/ChhuongLe/Spotography
 - 🌱 I’m currently learning: 
   - JavaScipt
