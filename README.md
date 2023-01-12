@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
-  - https://medium-clone-mu-one.vercel.app/
   - https://github.com/ChhuongLe/Spotography
 - 🌱 I’m currently learning: 
   - JavaScipt
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
 - :white_check_mark: Personal projects that I've worked on:
+  - https://medium-clone-mu-one.vercel.app/
   - https://github.com/KFCNuggets/project-catwalk  
   - https://github.com/HealthyBilly/BillyHealthy
  
