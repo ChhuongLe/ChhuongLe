@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - :white_check_mark: Personal projects that I've worked on:
   - https://medium-clone-mu-one.vercel.app/
+  - https://chhuong-portfolio.vercel.app/
   - https://github.com/KFCNuggets/project-catwalk  
   - https://github.com/HealthyBilly/BillyHealthy
  
