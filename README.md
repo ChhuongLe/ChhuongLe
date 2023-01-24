@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
-   - [https://github.com/ChhuongLe/Airbnb-Clone](https://github.com/ChhuongLe/Airbnb-2.0)
+   - https://airbnb-clone-chhuongle.vercel.app/
+    
 - 🌱 I’m currently learning: 
   - JavaScipt
   - Python
