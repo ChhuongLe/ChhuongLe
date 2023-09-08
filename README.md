@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: 
-   - https://airbnb-clone-chhuongle.vercel.app/
+   - https://github.com/ChhuongLe/TrelloClone
     
 - 🌱 I’m currently learning: 
   - TypeScript
