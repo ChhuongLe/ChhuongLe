@@ -12,9 +12,9 @@ Here are some ideas to get you started:
   - TypeScript
 - 📫 How to reach me: www.linkedin.com/in/chhuongle or chhuongcle@gmail.com
 - 😄 Pronouns: He/Him/His
-- :white_check_mark: Personal projects that I've worked on:
+- ✅ Personal projects that I've worked on:
+  - https://trello-clone-olive-delta.vercel.app/
   - https://medium-clone-mu-one.vercel.app/
   - https://chhuong-portfolio-chhuongle.vercel.app/
   - https://github.com/KFCNuggets/project-catwalk  
-  - https://github.com/HealthyBilly/BillyHealthy
  
