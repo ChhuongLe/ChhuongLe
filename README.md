@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ✅ Personal projects that I've worked on:
   - https://trello-clone-olive-delta.vercel.app/
   - https://medium-clone-mu-one.vercel.app/
-  - https://chhuong-portfolio-chhuongle.vercel.app/
+  - https://chhuong-portfolio.vercel.app/
   - https://github.com/KFCNuggets/project-catwalk  
  
